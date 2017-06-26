@@ -1,0 +1,32 @@
+{
+  "name": "right-pad-test",
+  "version": "1.0.2",
+  "description": "right pad test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "bench": "node perf/perf.js"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "tape": "*"
+  },
+  "keywords": [
+    "rightpad",
+    "right",
+    "pad",
+    "padding",
+    "string",
+    "repeat"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tachanokkik/right-pad-test.git#commit-ish"
+  },
+  "author": "iamkik",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/tachanokkik/right-pad-test/issues"
+  },
+  "homepage": "https://github.com/tachanokkik/right-pad-test#readme"
+}
